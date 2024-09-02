@@ -7,10 +7,10 @@ permalink: /instructions/
 
 # Flashing Instructions
 
-- Flash Provided [ Recovery ](https://sourceforge.net/projects/win-abs/files/ginkgo/Teamwin%20Recovery/recovery_FbeV2.img/download)  image using fastboot. Or flash using existing recovery.
+- Flash Provided [ Recovery ](https://sourceforge.net/projects/kycii91-j4plus/files/Ginkgo/Recovery/TWRP-Unified-Ginkgo.img/download)  image using fastboot. Or flash using existing recovery.
 
 ```sh
-fastboot flash recovery recovery_FbeV2.img
+fastboot flash recovery TWRP-Unified-Ginkgo.img
 ```
 
 Ignore mount erros at this stage.
